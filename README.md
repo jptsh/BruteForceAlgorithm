@@ -1,2 +1,2 @@
 # BruteForceAlgorithm
-![Testing Image](Testing.png)
+![Algorithm Image](Brute Force Algorithmus.png)
